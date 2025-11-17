@@ -1,0 +1,50 @@
+# Site Configuration
+site:
+  title: "Kadin DeMarche"
+  description: "Building things, learning in public, and sharing the journey"
+  url: "https://kadin-demarche.github.io"
+  baseUrl: ""
+  author: "Kadin DeMarche"
+  email: "kadindemarche@gmail.com"
+  language: "en"
+
+# Build Settings
+build:
+  source: "content"
+  destination: "_site"
+  templates: "templates"
+  assets: "assets"
+
+# Blog Settings
+blog:
+  postsPerPage: 10
+  dateFormat: "MMMM dd, yyyy"
+  excerptLength: 200
+
+# SEO Settings
+seo:
+  enableSitemap: true
+  enableRSS: true
+  enableJsonLD: true
+  socialImage: "/assets/images/social-preview.jpg"
+
+# Social Links
+social:
+  github: "Kadin-Demarche"
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog"
+  - title: "About"
+    url: "/about"
+
+# Additional Features
+features:
+  syntaxHighlighting: true
+  readingTime: true
+  tableOfContents: true
+  darkMode: true
+  search: true
