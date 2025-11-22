@@ -44,11 +44,11 @@ Which brings me here.
 
 I'm applying to colleges right now and the application process is frustrating. They give you 350 words per Personal Insight Question. Four questions total, maybe two extra info boxes. That's supposed to explain who you are, your growth, your whole journey. In 350 words.
 
-It's not enough. How do you explain building projects, failing, learning, growing, in 350 words? You can't. Not really.
+It's not enough. How do you explain building projects, failing, learning, growing, in 350 words? How do you explain being SPL of a Scout troop, winning orienteering competitions, being on the mountain bike team, taking AP Physics and French, all while being a hard procrastinator who somehow still gets things done? You can't. Not really.
 
-I have stories that don't fit in 350 words. Lessons from projects that failed. Thoughts on tech and building things that need more than a paragraph. Real thoughts, not optimized for algorithms.
+I have stories that don't fit in 350 words. Lessons from projects that failed. Thoughts on tech and building things that need more than a paragraph. Real thoughts, not optimized for algorithms. Stories about being a Scout leader, about physics being hard but rewarding, about procrastinating until 2am and somehow making it work.
 
-So if college admissions people are googling my name (they probably are), I want them to find this. Not some polished LinkedIn profile. Not Instagram. This blog, where I can actually explain stuff without word limits or trying to game SEO. Just writing what I think.
+So if college admissions people are googling my name (they probably are), I want them to find this. Not some polished LinkedIn profile. Not Instagram. This blog, where I can actually explain stuff without word limits or trying to game SEO. Just writing what I think, who I am, what I'm actually doing.
 
 ## What's Next
 

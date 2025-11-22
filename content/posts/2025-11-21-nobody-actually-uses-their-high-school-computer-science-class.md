@@ -12,6 +12,8 @@ Our high school offers AP Computer Science. It's taught in Java. They cover obje
 
 I'm taking it. I have an A. Don't use anything from it. Do I understand Java? Yes, but that's from me making my own Minecraft Plugins... not from the class.
 
+I'm also taking AP Physics and French (basically an honors class and super hard). Physics is fun but super hard, and it's actually rewarding to learn it. French? Also hard, but in a different way. Both of these classes feel more useful than AP CS, honestly. At least I'm learning something I can apply.
+
 This isn't the teacher's fault. The curriculum is fine if your goal is passing the AP exam. But if your goal is actually building things, there's a huge gap between what schools teach and what you need to know. Like, a massive gap.
 
 ## What They Teach
@@ -86,6 +88,8 @@ Everything useful I know came from building things and googling (shoutout stack 
 4. Copied code from tutorials, broke it, fixed it (repeat 100 times)
 5. Googled the next error message (every single error)
 6. Repeated until something worked (eventually it did)
+
+I'm a hard procrastinator, so a lot of this learning happened at 2am when I should've been doing French homework or studying for physics. But that's when I'm most productive, honestly. The pressure of deadlines makes me focus.
 
 This is messy and inefficient compared to a structured course. But it teaches you what you actually need, when you need it. And you remember it because you had to figure it out.
 

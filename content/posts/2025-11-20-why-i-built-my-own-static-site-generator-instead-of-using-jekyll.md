@@ -10,7 +10,7 @@ excerpt: "Jekyll is fine. Hugo is fine. But sometimes you just want to build som
 
 I needed a blog. Jekyll is the obvious choice for GitHub Pages. It's mature, well-documented, and everyone uses it. The safe choice.
 
-So naturally, I spent two weeks building my own static site generator instead. Because of course I did.
+So naturally, I spent two weeks building my own static site generator instead. Because of course I did. This was during a particularly bad procrastination period where I was avoiding AP Physics homework and French assignments. Building a static site generator felt more important than conjugating verbs, you know?
 
 This probably sounds stupid. Why reinvent the wheel when perfectly good wheels exist? But there were actual reasons, I swear. It wasn't just me being difficult (though that was part of it).
 
