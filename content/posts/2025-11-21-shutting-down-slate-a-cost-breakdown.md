@@ -12,6 +12,8 @@ You know that feeling when you build something you're proud of, then reality hit
 
 I spent months building a job platform that was supposed to solve LinkedIn's problems. No paywalls, no AI spam, just clean tools for finding work. Got the auth working, built a resume editor, set up the dashboard. It felt real. Like, actually real.
 
+This was in between Scout meetings (I'm SPL of my troop), mountain bike team practices, AP Physics homework, and French class. I'm a hard procrastinator, so a lot of this got built at weird hours when I should've been doing other things. But building felt more important.
+
 Then I looked at what it would actually cost to run. And reality hit hard.
 
 ## The Numbers Nobody Talks About
@@ -44,8 +46,10 @@ I'm in high school. I don't have $50 a month to burn on a project no one's using
 That's $600 a year. For context, that's:
 
 - 60 hours of minimum wage work in California (that's a lot of hours)
-- Two months of gas money (I drive a lot)
+- Two months of gas money (I drive a lot, especially to Scout stuff and mountain bike practices)
 - Most of what I'd saved from working at summer camp (my actual savings)
+
+I'm already juggling Scouts (as SPL, I have responsibilities), mountain bike team, AP Physics, and French class. Adding a $50/month expense for something that might not even work? Not happening.
 
 The calculation was simple but depressing: if I wanted to run Slate, I needed either users paying for it (which defeats the whole free platform idea) or I needed to make money some other way to subsidize it. Maybe ads? But then it's not free anymore.
 

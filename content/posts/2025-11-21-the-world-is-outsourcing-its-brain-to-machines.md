@@ -40,13 +40,15 @@ A hammer is a tool. It makes hitting nails easier. But if you lose the hammer, y
 
 GPS isn't a tool though. It's a replacement. I never learned how to read a map properly because GPS existed when I started driving. The skill was never developed in the first place. If GPS disappeared tomorrow, I'd be completely screwed. The ability is just... gone. Never existed.
 
-And honestly? I'm kind of pissed about it. I wish I'd learned map reading before GPS became the default.
+And honestly? I'm kind of pissed about it. I wish I'd learned map reading before GPS became the default. The irony is I'm actually good at orienteering—I've won a bunch of orienteering competitions through Scouts. But that's using a compass and a map in the woods, not navigating city streets. Different skill entirely. And I can't do the city navigation without my phone.
 
 AI is doing the same thing. It's becoming a replacement, not a tool.
 
 Students aren't using ChatGPT to check their essays. They're using it to write the essays, then maybe tweaking a sentence or two. The skill of actually constructing an argument from scratch? Never developed. They don't know how to do it.
 
 Developers aren't using Copilot to speed up coding. They're using it to generate code they don't fully understand, then spending hours debugging when it breaks. The skill of thinking through logic from first principles? It's atrophying (can I get extra credit for using a big word Ms. Rode?).
+
+I'm guilty of this too, by the way. I use Copilot constantly. But I also take AP Physics, and that forces me to think through problems manually. Physics is fun but super hard, and it's actually rewarding to learn it because you can't just ask AI to solve it for you—you have to understand the concepts. That kind of thinking is what we're losing.
 
 And everyone acts like this is progress. Like we're evolving or something. I'm not so sure.
 

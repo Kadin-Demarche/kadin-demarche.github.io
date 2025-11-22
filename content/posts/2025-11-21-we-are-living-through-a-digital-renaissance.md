@@ -190,6 +190,8 @@ The difference? We're moving faster this time, with less time to correct course.
 
 I'm 17. My entire career will happen in a world where AI is normal. That's wild to think about. I'll never know what it was like before.
 
+Right now I'm juggling being SPL of my Scout troop, mountain bike team, AP Physics (which is fun but super hard—it's actually rewarding to learn though), and French class. All of this while trying to figure out what I want to do with my life in a world where AI is changing everything. It's a lot.
+
 **Things I'm certain about:**
 
 - "AI literacy" will be as basic as computer literacy (you'll need it)
