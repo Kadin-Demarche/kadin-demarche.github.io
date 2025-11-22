@@ -1,12 +1,12 @@
 ---
-title: "We're Living Through a Digital Renaissance (And Most People Don't Realize It)"
+title: "we're in a digital renaissance and nobody notices"
 date: 2025-11-21
 author: "Kadin DeMarche"
 tags: ["AI", "technology", "history", "future"]
 excerpt: "The Renaissance fundamentally changed how humans thought, created, and organized society. AI is doing the same thing right now. We're just too close to see it."
 ---
 
-# We're Living Through a Digital Renaissance (And Most People Don't Realize It)
+# we're in a digital renaissance and nobody notices
 
 History classes teach the Renaissance like it was obvious: of course it was important, look at all the art and science and cultural change! It's so clear in hindsight.
 
@@ -63,7 +63,7 @@ That's not a tool. That's a dependency. We're dependent on it now.
 
 ## The "AI Can't Really Think" Argument Is Missing the Point
 
-Renaissance skeptics said printed books would never replace illuminated manuscripts. They were right—printed books were objectively lower quality. They looked worse, felt cheaper, had no custom artwork.
+Renaissance skeptics said printed books would never replace illuminated manuscripts. They were right. Printed books were objectively lower quality. They looked worse, felt cheaper, had no custom artwork.
 
 Hand-copied manuscripts had:
 
@@ -190,7 +190,7 @@ The difference? We're moving faster this time, with less time to correct course.
 
 I'm 17. My entire career will happen in a world where AI is normal. That's wild to think about. I'll never know what it was like before.
 
-Right now I'm juggling being SPL of my Scout troop, mountain bike team, AP Physics (which is fun but super hard—it's actually rewarding to learn though), and French class. All of this while trying to figure out what I want to do with my life in a world where AI is changing everything. It's a lot.
+Right now I'm juggling being SPL of my Scout troop, mountain bike team, AP Physics (which is fun but super hard, but it's actually rewarding to learn though), and French class. All of this while trying to figure out what I want to do with my life in a world where AI is changing everything. It's a lot.
 
 **Things I'm certain about:**
 
