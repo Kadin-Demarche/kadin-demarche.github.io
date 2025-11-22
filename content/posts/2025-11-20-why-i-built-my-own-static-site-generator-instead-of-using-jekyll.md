@@ -145,6 +145,6 @@ But for learning and having full control? Building your own definitely wins. No 
 
 ---
 
-_MarkSite is on GitHub if you want to look at the code. It's nothing terribly fancy, just a straightforward Node.js script that turns Markdown into HTML. MIT licensed. Do whatever you want with it. Fork it, break it, improve it._
+_MarkSite is on GitHub. The code is messy and I'm sure there are bugs, but it works for me. If you want to use it, go ahead. If you want to make it better, even better. Just don't tell me if you find something stupid I did. I already know._
 
-_I still think Jekyll is good. I just wanted to build something myself. Sometimes that's reason enough. And Jekyll is overrated. There, I said it._
+_Also, I built this during a particularly bad week where I was avoiding French homework. My teacher would not be impressed with my priorities._

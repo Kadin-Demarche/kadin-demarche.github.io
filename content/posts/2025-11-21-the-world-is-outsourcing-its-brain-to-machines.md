@@ -298,10 +298,6 @@ That's a bad bet. But we're making it anyway, because what else are we supposed 
 
 ---
 
-_Outsourcing our thinking is a tragedy. But it's probably unstoppable at this point._
+_Update: wrote most of this at 2am after procrastinating on physics homework. Probably should've been studying but this felt more important. My French teacher would be disappointed._
 
-_The momentum is too strong, the incentives too powerful, the convenience too seductive. The dark side is calling, do they have cookies? (Star Wars reference, in case that wasn't clear.)_
-
-_We're building our own obsolescence, and calling it innovation. I feel like we're in a sci-fi film, except I'm not sure if we're the heroes or the cautionary tale._
-
-_And the worst part? The people warning about it will be the ones left behind. The ones who resist will get left behind. The ones who embrace it will lose something fundamental. There's no good option here._
+_Joke of the day: Why did the AI break up with the calculator? Because it found someone with better algorithms. (I know, it's bad. But it's 2am.)_

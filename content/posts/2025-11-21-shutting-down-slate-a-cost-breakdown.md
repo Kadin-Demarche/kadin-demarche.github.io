@@ -120,6 +120,6 @@ These are questions I should've asked in week 1, not month 3 🤦‍♂️. Live
 
 ---
 
-_If you're a student trying to build something: start with the cheapest possible version. Free hosting exists for a reason. Don't optimize for scale when you have zero users. I learned this the expensive way (expensive for a high school student, anyway)._
+_$120 might not sound like a lot, but when you're 17 and that's most of your savings from working at summer camp, it hurts. My mom asked why I was spending money on "computer stuff" and I didn't have a good answer._
 
-_Total sunk cost on Slate: ~$120 in hosting while building + testing, plus 3 months of evenings and weekends. At least I got a blog post out of it. And some lessons learned. Silver lining?_
+_On the bright side, I learned more from failing with Slate than I would've from it succeeding. That's what I tell myself anyway. Makes the $120 sting less._
