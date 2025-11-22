@@ -1,12 +1,12 @@
 ---
-title: "The World Is Outsourcing Its Brain to Machines (And We're All Pretending It's Fine)"
+title: "we're outsourcing our brains to AI and pretending it's fine"
 date: 2025-11-21
 author: "Kadin DeMarche"
 tags: ["AI", "technology", "society", "dependence"]
 excerpt: "We outsourced memory to smartphones. Now we're outsourcing thinking to AI. At what point did we agree this was a good idea?"
 ---
 
-# The World Is Outsourcing Its Brain to Machines (And We're All Pretending It's Fine)
+# we're outsourcing our brains to AI and pretending it's fine
 
 I haven't memorized a phone number since I got a phone (excluding my parents since that was a requirment for me to get a phone). Like, why would I bother? My phone has everyone's number. It knows their address, their birthday, their email, their social media handles. My brain doesn't need to store any of that anymore.
 
@@ -26,21 +26,21 @@ Smartphones showed up and suddenly nobody memorizes anything anymore. Phone numb
 
 **2010s: We outsourced navigation**
 
-GPS completely killed map reading. I literally cannot navigate without Google Maps. Like, if my phone dies in an unfamiliar city, I'm genuinely screwed. Not "I'll figure it out" lost—I mean actually, completely lost. I have no idea how to read a physical map. Never learned.
+GPS completely killed map reading. I literally cannot navigate without Google Maps. Like, if my phone dies in an unfamiliar city, I'm genuinely screwed. Not "I'll figure it out" lost. I mean actually, completely lost. I have no idea how to read a physical map. Never learned.
 
 **2020s: We're outsourcing thinking**
 
-Now ChatGPT writes essays. Copilot writes code. AI summarizes articles, analyzes data, makes recommendations. We're not just using tools anymore—we're outsourcing the actual process of reasoning itself.
+Now ChatGPT writes essays. Copilot writes code. AI summarizes articles, analyzes data, makes recommendations. We're not just using tools anymore. We're outsourcing the actual process of reasoning itself.
 
 **At what point does "tool" become "dependency"?**
 
 ## The Difference Between Tools and Replacements
 
-A hammer is a tool. It makes hitting nails easier. But if you lose the hammer, you can still hit a nail with a rock. The skill isn't lost—you just use a different method.
+A hammer is a tool. It makes hitting nails easier. But if you lose the hammer, you can still hit a nail with a rock. The skill isn't lost. You just use a different method.
 
 GPS isn't a tool though. It's a replacement. I never learned how to read a map properly because GPS existed when I started driving. The skill was never developed in the first place. If GPS disappeared tomorrow, I'd be completely screwed. The ability is just... gone. Never existed.
 
-And honestly? I'm kind of pissed about it. I wish I'd learned map reading before GPS became the default. The irony is I'm actually good at orienteering—I've won a bunch of orienteering competitions through Scouts. But that's using a compass and a map in the woods, not navigating city streets. Different skill entirely. And I can't do the city navigation without my phone.
+And honestly? I'm kind of pissed about it. I wish I'd learned map reading before GPS became the default. The irony is I'm actually good at orienteering. I've won a bunch of orienteering competitions through Scouts. But that's using a compass and a map in the woods, not navigating city streets. Different skill entirely. And I can't do the city navigation without my phone.
 
 AI is doing the same thing. It's becoming a replacement, not a tool.
 
@@ -48,7 +48,7 @@ Students aren't using ChatGPT to check their essays. They're using it to write t
 
 Developers aren't using Copilot to speed up coding. They're using it to generate code they don't fully understand, then spending hours debugging when it breaks. The skill of thinking through logic from first principles? It's atrophying (can I get extra credit for using a big word Ms. Rode?).
 
-I'm guilty of this too, by the way. I use Copilot constantly. But I also take AP Physics, and that forces me to think through problems manually. Physics is fun but super hard, and it's actually rewarding to learn it because you can't just ask AI to solve it for you—you have to understand the concepts. That kind of thinking is what we're losing.
+I'm guilty of this too, by the way. I use Copilot constantly. But I also take AP Physics, and that forces me to think through problems manually. Physics is fun but super hard, and it's actually rewarding to learn it because you can't just ask AI to solve it for you. You have to understand the concepts. That kind of thinking is what we're losing.
 
 And everyone acts like this is progress. Like we're evolving or something. I'm not so sure.
 
@@ -254,7 +254,7 @@ Machines took over manual tasks, humans moved to cognitive tasks. Now AI takes o
 
 **Emotional labor?** AI chatbots provide therapy and companionship without judgment. Some people already prefer talking to AI.
 
-What's left? Consuming? Is that the endpoint—humans as passive consumers of AI-generated everything? Just clicking "regenerate" until we like what we see?
+What's left? Consuming? Is that the endpoint? Humans as passive consumers of AI-generated everything? Just clicking "regenerate" until we like what we see?
 
 That's bleak. And nobody's really talking about it. Or if they are, I'm not hearing it.
 
@@ -286,7 +286,7 @@ We're moving toward a world where AI does most cognitive work and humans... over
 
 **The pessimistic view:** humans become intellectually dependent, cognitively atrophied, and unable to function without AI assistance.
 
-**The realistic view:** The pessimistic scenario is already happening. We're not heading toward cognitive dependence—we're already there. And it's accelerating faster than anyone expected.
+**The realistic view:** The pessimistic scenario is already happening. We're not heading toward cognitive dependence. We're already there. And it's accelerating faster than anyone expected.
 
 Some people will use AI as a tool to amplify their thinking. Most people will use AI as a replacement for thinking. The gap between those groups will become a chasm, and the people who control the AI will control everyone else. That's already starting to happen.
 

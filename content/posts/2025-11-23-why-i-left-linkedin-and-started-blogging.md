@@ -1,12 +1,12 @@
 ---
-title: "Why I Left LinkedIn Behind and Started Blogging"
+title: "why I left linkedin and started blogging"
 date: 2025-11-23
 author: "Kadin DeMarche"
 tags: ["personal", "tech", "startups", "linkedin"]
 excerpt: "LinkedIn was supposed to help us find jobs. Instead it's just another social media platform. Here's why I tried to build something better, failed, and what I learned from it."
 ---
 
-# Why I Left LinkedIn Behind and Started Blogging
+# why I left linkedin and started blogging
 
 LinkedIn was supposed to change how we find jobs. Instead it became another social media platform filled with AI posts, humble brags, and features nobody asked for. As someone in high school trying to figure out tech, I've watched LinkedIn go from useful to annoying pretty fast. Like, really fast.
 

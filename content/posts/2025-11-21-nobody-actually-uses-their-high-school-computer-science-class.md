@@ -1,12 +1,12 @@
 ---
-title: "Nobody Actually Uses Their High School Computer Science Class"
+title: "nobody actually uses their high school CS class"
 date: 2025-11-21
 author: "Kadin DeMarche"
 tags: ["education", "programming", "learning"]
 excerpt: "High school CS teaches Java and sorting algorithms. Actually building stuff requires JavaScript, APIs, deployment, and none of that. Here's where the disconnect is."
 ---
 
-# Nobody Actually Uses Their High School Computer Science Class
+# nobody actually uses their high school CS class
 
 Our high school offers AP Computer Science. It's taught in Java. They cover object-oriented programming, data structures, and algorithm complexity. If you do well, you can pass the AP exam and maybe get college credit. Sounds good, right?
 
@@ -97,7 +97,7 @@ The school approach is the opposite: here's everything you might need someday, m
 
 ## Where CS Education Gets It Wrong
 
-The disconnect isn't just high school. College CS programs have similar issues. They teach algorithms, theory, and fundamentals but skip the practical stuff. I know this because I have a ton of friends who are taking classes at community college outside of HS, and I still know more than them even though they've been in the system for a whole year more than me. That's not because I'm smarter—it's because I actually build things.
+The disconnect isn't just high school. College CS programs have similar issues. They teach algorithms, theory, and fundamentals but skip the practical stuff. I know this because I have a ton of friends who are taking classes at community college outside of HS, and I still know more than them even though they've been in the system for a whole year more than me. That's not because I'm smarter. It's because I actually build things.
 
 **Problems with the current approach:**
 

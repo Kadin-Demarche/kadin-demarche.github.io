@@ -1,12 +1,12 @@
 ---
-title: "Shutting Down Slate: A Cost Breakdown"
+title: "why I had to shut down slate (it cost too much money)"
 date: 2025-11-21
 author: "Kadin DeMarche"
 tags: ["startups", "tech", "cost-analysis"]
 excerpt: "Building a startup as a high school student sounds exciting until you see the hosting bills. Here's exactly what it cost me to run Slate, and why I had to shut it down."
 ---
 
-# Shutting Down Slate: A Cost Breakdown
+# why I had to shut down slate (it cost too much money)
 
 You know that feeling when you build something you're proud of, then reality hits and you realize you can't afford to keep it running? That was Slate for me. Classic high school student problem.
 
@@ -66,7 +66,7 @@ I had neither. So I shut it down.
 
 **Could've used:**
 
-- Google Sheets as a free database (actually did this initially for CampusLink, my earlier project that I'm trying to revive right now—it works but it's janky)
+- Google Sheets as a free database (actually did this initially for CampusLink, my earlier project that I'm trying to revive right now. It works but it's janky)
 - Supabase free tier (generous but limited, and you'll hit limits eventually)
 - PlanetScale's free tier for database (now discontinued, because of course it is)
 
@@ -80,7 +80,7 @@ If I actually had, say, $200-300 to spend on getting Slate off the ground, here'
 
 - Vercel for frontend (free, as long as you stay under limits)
 - Supabase for database + auth + storage (free tier, generous but watch those limits)
-- Focus entirely on getting 50-100 beta users (probably hang up flyers and go door to door or something so I wouldn't have to pay for advertising—old school marketing)
+- Focus entirely on getting 50-100 beta users (probably hang up flyers and go door to door or something so I wouldn't have to pay for advertising. Old school marketing)
 - Total: $0 (the dream)
 
 **Month 3-4: Validate before scaling**

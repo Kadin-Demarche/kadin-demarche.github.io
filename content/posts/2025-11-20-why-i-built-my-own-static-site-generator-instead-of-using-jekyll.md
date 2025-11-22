@@ -1,12 +1,12 @@
 ---
-title: "Why I Built My Own Static Site Generator Instead of Using Jekyll"
+title: "I built my own blog generator because jekyll annoyed me"
 date: 2025-11-20
 author: "Kadin DeMarche"
 tags: ["programming", "tech", "projects"]
 excerpt: "Jekyll is fine. Hugo is fine. But sometimes you just want to build something yourself that works exactly how you want it to work."
 ---
 
-# Why I Built My Own Static Site Generator Instead of Using Jekyll
+# I built my own blog generator because jekyll annoyed me
 
 I needed a blog. Jekyll is the obvious choice for GitHub Pages. It's mature, well-documented, and everyone uses it. The safe choice.
 
