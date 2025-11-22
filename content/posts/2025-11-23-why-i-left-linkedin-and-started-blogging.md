@@ -60,6 +60,6 @@ Either way, this feels more real than LinkedIn ever did. This is me, unfiltered.
 
 ---
 
-_First post on here. Writing about tech, school, and whatever I'm building. No trying to game algorithms, just writing what I think. We'll see how this goes._
+_First post. Feels weird writing this knowing college admissions people might read it. But that's kind of the point, I guess. Hi, if you're reading this. Thanks for actually looking beyond the 350-word essays._
 
-_If you're here because you googled my name for college stuff... hey! Thanks for actually reading beyond the application forms. That means a lot, honestly._
+_Also, if you're from my Scout troop and you found this: yes, I know I'm supposed to be planning the camping trip. I'm getting to it. Promise._

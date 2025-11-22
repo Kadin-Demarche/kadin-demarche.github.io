@@ -187,6 +187,6 @@ None of this was part of any curriculum. It's just what you do when you actually
 
 ---
 
-_To be clear: CS teachers are doing their best with outdated curriculum requirements. This isn't their fault. The system needs to catch up with how programming actually works in 2025._
+_My CS teacher is actually pretty cool. She knows the curriculum is outdated but she's stuck with it. Can't blame her for that._
 
-_If you're in high school and thinking about CS: take the class, but don't stop there. Build something on the side. That's where the real learning happens._
+_Also, I should probably mention that I wrote this instead of studying for the AP CS exam. Classic procrastination move. At least I'm consistent._

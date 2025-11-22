@@ -232,10 +232,6 @@ What happens when change is faster than human adaptation? We might be about to f
 
 ---
 
-_We're living through something historically significant. Future textbooks will have a chapter on this era, the way we have chapters on the Renaissance. Kids will learn about "the AI revolution" the way we learn about the printing press._
+_Reading "The Structure of Scientific Revolutions" for AP Physics (yes, really) and Kuhn talks about how paradigm shifts happen when the old way of thinking can't explain new observations. Feels relevant here. We're definitely in a paradigm shift, whether we like it or not._
 
-_The question is: will they call it a golden age, or a cautionary tale? Will they say "this is when humanity reached new heights" or "this is when we lost something fundamental"?_
-
-_I'm betting on cautionary tale. We're moving too fast, understanding too little, and letting profit motives drive decisions that will reshape humanity. But I'm 17, so what do I know?_
-
-_But nobody asked me. And even if they did, I'm not sure what I'd say. I use AI every day. I'm part of the problem. But at least I'm aware of it?_
+_Also, my Scout troop is planning a camping trip and I'm supposed to be organizing it as SPL but I'm writing this instead. Priorities, I guess._
